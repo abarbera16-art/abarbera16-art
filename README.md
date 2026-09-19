@@ -1,4 +1,10 @@
-## Hola!!! 👋
+<h1 align="center">Hola 👋, Soy Álvaro Vázquez Barberá</h1>
+
+---
+
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Web (DAW) y Técnico en Sistemas (SMR)</h3>
+
+<br>
 
 ### 💻 Herramientas y Tecnologías
 <p align="left">
