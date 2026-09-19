@@ -1,4 +1,4 @@
-<h1 align="center">HOLA 👋, SOY ÁLVARO VÁZQUEZ BARBERÁ</h1>
+<h1 align="center">Hola 👋, Soy Álvaro Vázquez Barberá</h1>
 
 ---
 
@@ -26,7 +26,7 @@
   <tr>
     <td width="50%" align="center">
       <b>INGLÉS</b><br>
-      Nivel B2.2<br>
+      Nivel B2<br>
       Certificación Trinity College
     </td>
     <td width="50%" align="center">
