@@ -2,7 +2,7 @@
 
 ### 💻 Herramientas y Tecnologías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tecnologías web" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java" alt="Tecnologías web" />
 </p>
 
 ### 🔧 Sistemas y Herramientas
