@@ -22,7 +22,7 @@
 
 <h3 align="left">🌍 IDIOMAS</h3>
 
-<table align="left" border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="50%" align="center">
       <b>INGLÉS</b><br>
@@ -35,12 +35,11 @@
   </tr>
 </table>
 
-<br><br><br>
+<br>
 
+<h3 align="left">🤝 CONECTEMOS / CONTACTO</h3>
 
-<h3 align="left">CONECTEMOS / CONTACTO</h3>
-
-<table align="left" border="0" cellpadding="10" cellspacing="0" width="100%">
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="33%" align="center">
       <a href="TU_LINKEDIN_URL" target="_blank">
@@ -58,5 +57,4 @@
       </a>
     </td>
   </tr>
-</table>
 </table>
