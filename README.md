@@ -7,7 +7,8 @@
 
 ### 🔧 Sistemas y Herramientas
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-
+![Windows Server](https://img.shields.io/badge/Windows_Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🌍 Idiomas
 ![Inglés](https://img.shields.io/badge/Inglés-B2.2_Trinity_College-004165?style=for-the-badge)
