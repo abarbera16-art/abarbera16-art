@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 💻 Tech Stack
+### 💻 Herramientas y Tecnologías
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tecnologías web" />
 </p>
@@ -10,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=linux,windows" alt="Sistemas" />
 </p>
 
-![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+
 
 ### 🌍 Idiomas
 ![Inglés](https://img.shields.io/badge/Inglés-B2.2_Trinity_College-004165?style=for-the-badge)
