@@ -38,6 +38,7 @@
 <br><br><br>
 
 
+<h3 align="left">CONECTEMOS / CONTACTO</h3>
 
 <table align="left" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
@@ -57,4 +58,5 @@
       </a>
     </td>
   </tr>
+</table>
 </table>
