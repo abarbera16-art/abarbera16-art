@@ -1,14 +1,16 @@
 ## Hi there 👋
 
 ### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="Tecnologías web" />
+</p>
 
 ### 🔧 Sistemas y Herramientas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Sistemas" />
+</p>
+
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🌍 Idiomas
 ![Inglés](https://img.shields.io/badge/Inglés-B2.2_Trinity_College-004165?style=for-the-badge)
