@@ -15,7 +15,7 @@
 <h3 align="left">🔧 SISTEMAS Y HERRAMIENTAS</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker" alt="Sistemas" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git" alt="Sistemas" />
 </p>
 
 <br>
@@ -42,14 +42,19 @@
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td width="33%" align="center">
-      <a href="TU_LINKEDIN_URL" target="_blank">
+      <a href="https://www.linkedin.com/in/alvaro-vazquez-0445963a9" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
     <td width="33%" align="center">
-      <a href="mailto:TU_CORREO@ejemplo.com">
+      <a href="mailto:abarbera16@gmail.com">
         <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
       </a>
     </td>
     <td width="33%" align="center">
-      <a href="TU_PORTAFOLIO_
+      <a href="TU_PORTAFOLIO_URL" target="_blank">
+        <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio" />
+      </a>
+    </td>
+  </tr>
+</table>
