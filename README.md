@@ -1,4 +1,4 @@
-<h1 align="center">Hola!!!, Soy Álvaro Vázquez Barberá</h1>
+<h1 align="center">Hola, soy Álvaro Vázquez Barberá</h1>
 
 ---
 
@@ -9,13 +9,13 @@
 <h3 align="left">💻 HERRAMIENTAS Y TECNOLOGÍAS</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,java,spring,python,mongodb" alt="Tecnologías" />
 </p>
 
 <h3 align="left">🔧 SISTEMAS Y HERRAMIENTAS</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Sistemas" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,docker" alt="Sistemas" />
 </p>
 
 <br>
@@ -52,9 +52,4 @@
       </a>
     </td>
     <td width="33%" align="center">
-      <a href="TU_PORTAFOLIO_URL" target="_blank">
-        <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portafolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+      <a href="TU_PORTAFOLIO_
