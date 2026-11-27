@@ -23,15 +23,10 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de datos" />
 </p>
 
-<h4 align="left">Nube</h4>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" alt="Nube" />
-</p>
-
 <h3 align="left">🔧 SISTEMAS Y HERRAMIENTAS</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git" alt="Sistemas" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,aws" alt="Sistemas" />
 </p>
 
 <br>
