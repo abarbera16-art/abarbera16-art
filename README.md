@@ -48,7 +48,7 @@
 
 <br>
 
-<h3 align="left">🤝 CONECTEMOS / CONTACTO</h3>
+<h3 align="left">🤝 CONTACTO</h3>
 
 <table border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
