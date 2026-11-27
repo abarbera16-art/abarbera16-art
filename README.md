@@ -8,8 +8,24 @@
 
 <h3 align="left">💻 HERRAMIENTAS Y TECNOLOGÍAS</h3>
 
+<h4 align="left">Frontend</h4>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nodejs,express,java,spring,python,mongodb" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" alt="Frontend" />
+</p>
+
+<h4 align="left">Backend</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python" alt="Backend" />
+</p>
+
+<h4 align="left">Bases de datos</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Bases de datos" />
+</p>
+
+<h4 align="left">Nube</h4>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" alt="Nube" />
 </p>
 
 <h3 align="left">🔧 SISTEMAS Y HERRAMIENTAS</h3>
